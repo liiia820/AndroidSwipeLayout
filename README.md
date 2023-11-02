@@ -22,6 +22,8 @@ Time passed, finally...as you see right now.
 
 Before I made this, I actually found some libraries (eg.[SwipeListView](https://github.com/47deg/android-swipelistview)) that helps developers to integrate swiping with your UI component. 
 
+
+
 But it only works in `ListView`, and it has too many issues that they never care. What a pity!
 
 When I start to make this library, I set some goals:
