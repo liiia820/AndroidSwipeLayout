@@ -8,10 +8,12 @@
 *.ap_
 
 # files for the dex VM
-*.dex
+*.dex  
+
+
 
 # Java class files
-*.class
+*.class.
 .DS_Store
 
 # generated files
@@ -20,6 +22,7 @@ gen/
 Wiki/
 
 # Local configuration file (sdk path, etc)
+
 local.properties
 
 # Eclipse project files
